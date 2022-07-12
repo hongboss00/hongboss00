@@ -1,1 +1,1 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leehongsg3)](https://solved.ac/leehongsg3/)
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=leehongsg3)
